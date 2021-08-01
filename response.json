@@ -1,48 +1,24 @@
 [{
-    "id": "1234",
-    "title": "Футболочка",
+    "id": "5041",
+    "title": "T-Shirt",
     "price": 150,
-    "img": "https://place-hold.it/300"
+    "img": "../dist/images/shirt.jpg"
 },
 {
-    "id": "5678",
-    "title": "Трусы",
+    "id": "2074",
+    "title": "Socks",
     "price": 50,
-    "img": "https://place-hold.it/300"
+    "img": "../dist/images/socks.jpg"
 },
 {
-    "id": "1",
-    "title": "Свитер",
+    "id": "3009",
+    "title": "Jacket",
     "price": 350,
-    "img": "https://place-hold.it/300"
+    "img": "../dist/images/jacket.jpg"
 },
 {
-    "id": "9111",
-    "title": "Куртка",
+    "id": "5173",
+    "title": "Shoes",
     "price": 250,
-    "img": "https://place-hold.it/300"
-},
-{
-    "id": "5179",
-    "title": "Костюм",
-    "price": 250,
-    "img": "https://place-hold.it/300"
-},
-{
-    "id": "5131",
-    "title": "Браслет",
-    "price": 250,
-    "img": "https://place-hold.it/300"
-},
-{
-    "id": "2173",
-    "title": "Шляпа",
-    "price": 250,
-    "img": "https://place-hold.it/300"
-},
-{
-    "id": "3173",
-    "title": "Повязка на глаз",
-    "price": 250,
-    "img": "https://place-hold.it/300"
+    "img": "../dist/images/shoes.jpg"
 }]
